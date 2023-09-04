@@ -10,8 +10,8 @@ This is my first trip in U.S and had amazing vacation - Lake of the Ozarks, lake
     c. Water Parks
 2. Fishing
 3. Airplane and helicopter tours
-<br>
-<br>
+
+
 * Pizza
 * Burgers
 * Buffalo Wild Wings
