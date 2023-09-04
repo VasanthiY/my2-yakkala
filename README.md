@@ -36,3 +36,18 @@ Sports have a significant role in all phases of human life and are an essential 
 > The important thing is not to stop questioning.- *Albert Einstein*.
 
 > The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge. - *Stephen Hawking*.
+
+------
+
+### Code Fencing
+> How to create hamburger menu icon consisting from single SVG path - [Article](https://stackoverflow.com/questions/67482923/how-to-create-hamburger-menu-icon-consisting-from-single-svg-path)
+
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
+Snippet [source](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
+
