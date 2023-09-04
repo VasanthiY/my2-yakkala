@@ -17,3 +17,5 @@ This is my first trip in U.S and had amazing vacation - Lake of the Ozarks, lake
 * Buffalo Wild Wings
     * Califlower wings
     * Onion rings
+
+Here is the link to [My Stats](MyStats.md)
