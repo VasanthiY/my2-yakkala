@@ -19,3 +19,14 @@ This is my first trip in U.S and had amazing vacation - Lake of the Ozarks, lake
     * Onion rings
 
 Here is the link to [My Stats](MyStats.md)
+
+------
+### Different kinds of sports 
+Sports have a significant role in all phases of human life and are an essential component of life. Sports also contribute to a person's development of character and personality. It's unquestionably a great tool for maintaining physical fitness in the body. Notably, there are so many advantages to sports and I've listed a few of them in below table.
+
+| Name of the Sport | Reason for Recommendation | Avg hours (week) |
+| ------------------| ------- | -------- |
+| Badmainton | Develops physical agility, leads to better balance and flexibility, increases bone density. | 6 |
+| Carrom Board | Improves cognitive function, hand-eye coordination, stress relief, and concentration. Helps in focus, and enhancing memory. | 8 |
+| Swimming | Increases your heart rate without stressing your body, tones muscles, builds strength, and endurance. | 10 |
+| Chess | Helps focusing, developing creativity, and problem-solving skills, and building confidence. | 5 |
