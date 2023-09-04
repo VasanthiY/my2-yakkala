@@ -30,3 +30,9 @@ Sports have a significant role in all phases of human life and are an essential 
 | Carrom Board | Improves cognitive function, hand-eye coordination, stress relief, and concentration. Helps in focus, and enhancing memory. | 8 |
 | Swimming | Increases your heart rate without stressing your body, tones muscles, builds strength, and endurance. | 10 |
 | Chess | Helps focusing, developing creativity, and problem-solving skills, and building confidence. | 5 |
+
+-------
+### Pithy Quotes
+> The important thing is not to stop questioning.- *Albert Einstein*.
+
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge. - *Stephen Hawking*.
